@@ -22,6 +22,9 @@ This file explains the installation and setup process of TypeScript on a local m
 
 Node.js and Visual Studio Code need to be installed to use TypeScript.
 
+TypeScript provides a playground for writing and testing TypeScript code without explicit commands.
+[Visit TypeScript Playground](https://www.typescriptlang.org/play#code%2FDYUwLgBAtiDOsEMDmIBcswCcCWA7JAvAEQASIwwA9gDQQAqAngA5wDGOTYAdFwIREAoVpVyxKoLlSQAKGPGQgAlEA)
+
 #### Global Installation of TypeScript
 
 TypeScript is installed globally to use the TSC command in the terminal.
@@ -44,7 +47,6 @@ TypeScript provides a TS config file to customize compiler settings for project 
 # To create TS config file
 tsc --init
 
-TypeScript provides a playground for writing and testing TypeScript code without explicit commands.
-[Visit TypeScript Playground](https://www.typescriptlang.org/play#code%2FDYUwLgBAtiDOsEMDmIBcswCcCWA7JAvAEQASIwwA9gDQQAqAngA5wDGOTYAdFwIREAoVpVyxKoLlSQAKGPGQgAlEA)
+
 
 
