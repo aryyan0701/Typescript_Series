@@ -44,7 +44,7 @@ TypeScript shows type mismatch errors when a variable is reassigned to a differe
 
 Type inferencing is the process where TypeScript deduces or infers the type of a variable without explicitly defining it. It helps in understanding the type of variables without the need for explicit type annotations in most cases.
 
-**Commands:**
+**Examples:**
 ```bash
 # String Type
 let message:string="Hello, Typescript..!"
