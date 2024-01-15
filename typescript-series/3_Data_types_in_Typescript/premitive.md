@@ -35,7 +35,7 @@ To define a variable as an integer or a floating-point number in TypeScript, the
 String type is used to define the type of a variable as a string in TypeScript. Type annotations are helpful in specifying the type explicitly.
 
 <p align="center">
-  <img src="./assets/number.png" alt="TypeScript Logo" width="400"/>
+  <img src="./assets/string.png" alt="TypeScript Logo" width="400"/>
 </p>
 
 #### Defining Boolean Type
@@ -43,7 +43,7 @@ String type is used to define the type of a variable as a string in TypeScript. 
 Boolean type is used to define the type of a variable as true or false in TypeScript. Type annotations help in explicitly specifying the type.
 
 <p align="center">
-  <img src="./assets/number.png" alt="TypeScript Logo" width="400"/>
+  <img src="./assets/boolen.png" alt="TypeScript Logo" width="400"/>
 </p>
 
 #### TypeScript Error Prevention
