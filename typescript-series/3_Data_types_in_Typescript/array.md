@@ -1,7 +1,7 @@
 # Array Type in TypeScript 
 
 <p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1400/1*20o4vRNrYPgQh8gQEpR1MA.jpeg" alt="TypeScript Logo" width="800"/>
+  <img src="https://i.ytimg.com/vi/gFLU2VlyoQk/maxresdefault.jpg" alt="TypeScript Logo" width="800"/>
 </p>
 
 ## TLDR
@@ -22,20 +22,12 @@ In this segment of the TypeScript series, the discussion focuses on the array ty
 
 Arrays in TypeScript can be defined for specific data types by specifying the type of values inside the array. For example, an array of strings or an array of numbers can be defined using the appropriate syntax.
 
-<p align="center">
-  <img src="./assets/array.png" alt="TypeScript Logo" width="400"/>
-</p>
-Output:
-<p align="center">
-  <img src="./assets/array.png" alt="TypeScript Logo" width="400"/>
+<p align="left">
+  <img src="./assets/array2.png" alt="TypeScript Logo" width="500"/>
 </p>
 
-<p align="center">
-  <img src="./assets/array2.png" alt="TypeScript Logo" width="400"/>
-</p>
-Output:
-<p align="center">
-  <img src="./assets/ouput2.png" alt="TypeScript Logo" width="400"/>
+<p align="left">
+  <img src="./assets/output2.png" alt="TypeScript Logo" width="500"/>
 </p>
 
 
