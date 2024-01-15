@@ -1,6 +1,8 @@
 # TypeScript Tutorial #01 - What is TypeScript?
 
-![TypeScript Logo](https://miro.medium.com/v2/resize:fit:1358/1*moJeTvW97yShLB7URRj5Kg.png)
+<p align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:1358/1*moJeTvW97yShLB7URRj5Kg.png" alt="TypeScript Logo" width="800"/>
+</p>
 
 
 ## TLDR
