@@ -1,7 +1,8 @@
 # TypeScript Tutorial #02 - How to Install TypeScript?
 
-![Installations Of TypeScript](https://cdn.educba.com/academy/wp-content/uploads/2019/03/How-to-Install-Typescript-2.jpg)
-
+<p align="center">
+  <img src="https://cdn.educba.com/academy/wp-content/uploads/2019/03/How-to-Install-Typescript-2.jpg" alt="TypeScript Logo" width="800"/>
+</p>
 
 ## TLDR
 
