@@ -6,7 +6,7 @@
 
 ## TLDR
 
-In this video, the tuple types in TypeScript are discussed, explaining their features and usage. It also touches on potential errors and use cases.
+In this segement, the tuple types in TypeScript are discussed, explaining their features and usage. It also touches on potential errors and use cases.
 
 ## Key Insights
 
@@ -26,19 +26,19 @@ A tuple is a sort of collection in TypeScript, similar to an array, with the spe
 To define a variable as a tuple type in TypeScript, the name is followed by a colon and square brackets to specify the types of the elements. Initialization is done by assigning values inside square brackets.
 
 <p align="left">
-  <img src="./assets/tuple.png" alt="TypeScript Logo" width="400"/>
+  <img src="./assets/tuple.png" alt="TypeScript Logo" width="500"/>
 </p>
 <p align="left">
-  <img src="./assets/output3.png" alt="TypeScript Logo" width="400"/>
+  <img src="./assets/output3.png" alt="TypeScript Logo" width="500"/>
 </p>
 
 You can change the value of key after assigning it, but it is compulsary to chnage it in a order the way it is.
 
 <p align="left">
-  <img src="./assets/tuple2.png" alt="TypeScript Logo" width="400"/>
+  <img src="./assets/tuple2.png" alt="TypeScript Logo" width="500"/>
 </p>
 <p align="left">
-  <img src="./assets/output4.png" alt="TypeScript Logo" width="400"/>
+  <img src="./assets/ouput4.png" alt="TypeScript Logo" width="500"/>
 </p>
 
 ### Features of Tuple Type
