@@ -35,14 +35,14 @@ Numeric enums in TypeScript allow assigning numeric values to enum constants. If
 String enums in TypeScript are similar to numeric enums, but the assigned values are strings instead of numbers. However, unlike numeric enums, string enums cannot be left uninitialized and must have initializers for all their members.
 
 <p align="left">
-  <img src="./assets/enum3.png" alt="TypeScript Logo" width="500"/>
+  <img src="./assets/enum3.png" alt="TypeScript Logo" width="400"/>
 </p>
 
 
 ## Example Like
 
 <p align="left">
-  <img src="./assets/enum2.png" alt="TypeScript Logo" width="400"/>
+  <img src="./assets/enum2.png" alt="TypeScript Logo" width="500"/>
 </p>
 
 <p align="left">
