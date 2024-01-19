@@ -23,7 +23,7 @@ In this segement, the function type in TypeScript is discussed, focusing on defi
 The importance of defining parameter types to ensure type safety in functions. It demonstrates how not defining parameter types can lead to errors due to TypeScript's type inferencing.
 
 <p align="left">
-  <img src="./assets/function.png" alt="TypeScript Logo" width="400"/>
+  <img src="./assets/function.png" alt="TypeScript Logo" width="500"/>
 </p>
 
 ### Making Parameters Optional
@@ -31,7 +31,7 @@ The importance of defining parameter types to ensure type safety in functions. I
 The concept of making parameters optional is discussed, with the demonstration of adding a '?' after the parameter name to make it optional. The benefit of making parameters optional for handling scenarios where certain parameters may not be provided is highlighted.
 
 <p align="left">
-  <img src="./assets/function2.png" alt="TypeScript Logo" width="400"/>
+  <img src="./assets/function2.png" alt="TypeScript Logo" width="500"/>
 </p>
 
 ### Setting Default Values for Parameters
@@ -39,5 +39,5 @@ The concept of making parameters optional is discussed, with the demonstration o
 The syntax for setting default values for parameters in TypeScript functions, using the 'parameterName = defaultValue' format. An example of defining a default value for a parameter is provided, showcasing its usefulness.
 
 <p align="left">
-  <img src="./assets/function3.png" alt="TypeScript Logo" width="400"/>
+  <img src="./assets/function3.png" alt="TypeScript Logo" width="500"/>
 </p>
