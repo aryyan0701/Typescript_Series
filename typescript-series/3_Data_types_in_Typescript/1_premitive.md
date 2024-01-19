@@ -26,7 +26,7 @@ Type annotations are used to explicitly define the type of a variable in TypeScr
 
 To define a variable as an integer or a floating-point number in TypeScript, the number type is used. Type annotations are used to specify the type explicitly.
 
-<p align="center">
+<p align="left">
   <img src="./assets/number.png" alt="TypeScript Logo" width="400"/>
 </p>
 
@@ -34,7 +34,7 @@ To define a variable as an integer or a floating-point number in TypeScript, the
 
 String type is used to define the type of a variable as a string in TypeScript. Type annotations are helpful in specifying the type explicitly.
 
-<p align="center">
+<p align="left">
   <img src="./assets/string.png" alt="TypeScript Logo" width="400"/>
 </p>
 
@@ -42,7 +42,7 @@ String type is used to define the type of a variable as a string in TypeScript. 
 
 Boolean type is used to define the type of a variable as true or false in TypeScript. Type annotations help in explicitly specifying the type.
 
-<p align="center">
+<p align="left">
   <img src="./assets/boolen.png" alt="TypeScript Logo" width="400"/>
 </p>
 
