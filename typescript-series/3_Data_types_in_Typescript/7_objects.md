@@ -44,6 +44,3 @@ TypeScript allows making object properties optional by adding a question mark be
 
 TypeScript helps to avoid accessing possibly undefined properties by providing type safety. If a property may be undefined, conditional checks can be used to handle it.
 
-### Usage in Projects
-
-Object types are not commonly used in day-to-day code in TypeScript projects. Type aliases and interfaces are preferred for defining complex data structures.
