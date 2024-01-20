@@ -44,5 +44,5 @@ If a function may return multiple types, a union of those types can be specified
 TypeScript can infer the return type of a function, even if it is not explicitly defined. However, not defining the return type can lead to unexpected behavior, as demonstrated when a function inadvertently returns a different type. It is advisable to define the return type to prevent such errors.
 
 <p align="left">
-  <img src="./assets/function6.png" alt="TypeScript Logo" width="400"/>
+  <img src="./assets/function6.PNG" alt="TypeScript Logo" width="400"/>
 </p>
