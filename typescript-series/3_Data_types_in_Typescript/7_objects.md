@@ -25,7 +25,7 @@ This video discusses object types in TypeScript, including defining object types
 Object types in TypeScript are defined using curly braces to specify the properties and their types. The syntax is similar to defining object literals in JavaScript.
 
 <p align="left">
-  <img src="./assets/object.png" alt="TypeScript Logo" width="400"/>
+  <img src="./assets2/object.png" alt="TypeScript Logo" width="400"/>
 </p>
 
 ### Initializing Objects
@@ -33,14 +33,22 @@ Object types in TypeScript are defined using curly braces to specify the propert
 Initializing object types with values follows the same syntax as defining. Values are assigned to the properties using curly braces after the equal sign.
 
 <p align="left">
-  <img src="./assets/object2.png" alt="TypeScript Logo" width="400"/>
+  <img src="./assets2/object2.png" alt="TypeScript Logo" width="400"/>
 </p>
 
 ### Optional Properties
 
 TypeScript allows making object properties optional by adding a question mark before the colon. This provides flexibility in working with objects.
 
+<p align="left">
+  <img src="./assets2/object3.png" alt="TypeScript Logo" width="400"/>
+</p>
+
 ### Handling Possibly Undefined Properties
 
 TypeScript helps to avoid accessing possibly undefined properties by providing type safety. If a property may be undefined, conditional checks can be used to handle it.
+
+<p align="left">
+  <img src="./assets2/object4.png" alt="TypeScript Logo" width="400"/>
+</p>
 
